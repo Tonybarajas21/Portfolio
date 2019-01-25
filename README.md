@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi9vtLjz4fgAhUmGDQIHc0kCoUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.mediabistro.com%2Fclimb-the-ladder%2Fskills-expertise%2Fhow-to-get-your-copywriting-portfolio-started%2F&psig=AOvVaw1pZex9irvTvDOK0k8DqKGi&ust=1548460700799897" width="100%" alt="portfolio"/>
+<img align="center" src="https://www.mediabistro.com/wp-content/uploads/2016/02/tips-on-getting-your-copywriter-portfolio-started.jpg" width="100%" alt="portfolio"/>
 </p>
 
 # Portfolio #
